@@ -90,24 +90,12 @@ experiences:
         # time: 2014 - 2015
         company: ASML
         details: |
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+          
       - role: Software Architect
         # time: 2012 - 2014
         company: Airbus
         details: |
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
-          #   - Bullet point
-          #   - Bullet point
+          
 
 # certifications:
 #       title: Certifications
