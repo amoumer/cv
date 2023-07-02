@@ -94,8 +94,13 @@ experiences:
       - role: Software Architect
         # time: 2012 - 2014
         company: Airbus
+        details: | 
+        
+      - role: Project Manager
+        # time: 2012 - 2014
+        company: Philips Healthcare
         details: |
-          
+          In this project, With my team we developed a system that helps medical personnel guide patients through treatment plans. The system also provides statistics to the management of hospitals about patients, departments, and medical procedures.
 
 # certifications:
 #       title: Certifications
